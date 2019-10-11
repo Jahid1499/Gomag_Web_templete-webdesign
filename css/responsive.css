@@ -1,0 +1,74 @@
+/*=========Media query ========*/
+/*=========== 576px ==========*/
+
+@media(max-width:576px) {
+    .banner-section {
+
+       
+
+    }
+
+    .banner-part {
+        
+    }
+
+    .ar-da-dec {
+        padding-bottom: 40px;
+    }
+
+    .box-one {
+
+        padding-bottom: 40px;
+
+    }
+
+    .bla-sed-section-left {
+        padding-bottom: 37px;
+    }
+}
+
+/*=========Media query ========*/
+/*=========== 768px ==========*/
+
+@media(max-width:768px) {
+    .banner-part {
+
+        
+    }
+
+    .banner-section {
+
+       
+    }
+}
+
+
+
+/*=========Media query ========*/
+/*=========== 992px ==========*/
+
+
+@media(max-width:992px) {
+    .banner-part {
+       
+    }
+}
+
+/*=========Media query ========*/
+/*=========== 320px ==========*/
+
+
+@media(max-width:320px) {
+    .banner-part {
+    display: none;
+}
+    .sed-mag-mae-ri h5 {
+
+    font-size: 19px;
+
+}
+    .sed-mag-mae-ri p {
+	font-size: 13px;
+}
+    
+}
